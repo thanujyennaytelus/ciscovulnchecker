@@ -45,4 +45,7 @@ Issues and improvements to be made:
 
 2)	For the router and firmware vuln checker the excel sheet needs to be in this format and it should be updated to query with cisco to email that there is a vulnerability in the infrastructure that we have
 
+   You need to install the modules needed from the requirements.txt file
+   
+
  
